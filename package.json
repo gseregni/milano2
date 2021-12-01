@@ -1,0 +1,12 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Pingendo/shop.git",
+  "author": "Giorgio Seregni <giorgio.seregni@pingendo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "pingendo-11ty": "^1.0.11"
+  }
+}
